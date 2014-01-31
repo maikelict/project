@@ -589,7 +589,7 @@
    </div> 
 
 <div id="center">
-	<div class="subtitel">Welkom op Pokemon Area</div>
+	<div class="subtitel">Welkom op Pokestar</div>
 		<div id="center_tekst">
 		<?php include(''.$page.'.php'); ?>
         </div>
